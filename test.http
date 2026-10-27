@@ -1,0 +1,8 @@
+### Research endpoint
+GET http://127.0.0.1:5000/research?query=what+is+AI
+
+### List context files
+GET http://127.0.0.1:5000/rag-files
+
+### Query Private Policy RAG
+GET http://127.0.0.1:5000/rag-query?query=What+is+the+waiting+period+for+pre-existing+diseases?
